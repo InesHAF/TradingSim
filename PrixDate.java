@@ -1,4 +1,4 @@
-package tradimsim;
+package tradingsim;
 public class PrixDate {
     public String date;
 
