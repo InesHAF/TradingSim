@@ -5,4 +5,6 @@ public class CompteDepot {
 
     private Economie economie;
 
+    private String of;
+
 }
