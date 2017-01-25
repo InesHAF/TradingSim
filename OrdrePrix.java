@@ -1,4 +1,4 @@
-package tradimsim;
+package tradingsim;
 
 import java.util.ArrayList;
 import java.util.Collection;

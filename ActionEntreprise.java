@@ -1,4 +1,4 @@
-package tradimsim;
+package tradingsim;
 
 
 public class ActionEntreprise {
@@ -9,7 +9,7 @@ public class ActionEntreprise {
     private double prixUnitaire;
 
     
-    private int qte;
+    private int quantite;
 
    
     public boolean addQte(int qte) {

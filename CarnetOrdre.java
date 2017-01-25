@@ -1,4 +1,4 @@
-package tradimsim;
+package tradingsim;
 public class CarnetOrdre {
     
     private Entreprise entreprise;
